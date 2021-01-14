@@ -1,0 +1,7 @@
+name: sagemaker-ml-cert
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - boto3
+    - sagemaker-python-sdk
